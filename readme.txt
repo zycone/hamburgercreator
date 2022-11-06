@@ -14,7 +14,7 @@
 
 -------------------------------------------------------------------------------
 
-*a shitty recreation of a scratch game in python
+*a [redacted] recreation of a scratch game in python
 *in all honestly it barely counts as a game really
 
 *RUN APP.PY (REQUIRES PYTHON 3.10 AND LATER)
