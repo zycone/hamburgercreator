@@ -29,7 +29,6 @@ E mailto:3h-iodynium@gmail.com
 
 *rewritten in python by zycone
 W https://zycone.neocities.org
-E mailto:zycone.zy@gmail.com
 
 *released under CC BY-SA 4.0 (original under CC BY-SA 2.0)
 https://creativecommons.org/licenses/by-sa/4.0/
